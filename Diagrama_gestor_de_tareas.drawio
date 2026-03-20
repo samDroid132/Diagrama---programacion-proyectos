@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Página-1" id="vrziZq-YvizIMkH5P7Hp">
-    <mxGraphModel dx="623" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="WT6KL878tAKxY06InM5L-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Diseño principal de la pagina&amp;nbsp;&lt;div&gt;- Explicacion&lt;/div&gt;&lt;div&gt;- Motivo/Objetivo&lt;/div&gt;&lt;div&gt;- Funcion&lt;/div&gt;&lt;div&gt;-Usuarios explicacion&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="120" x="1080" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="WT6KL878tAKxY06InM5L-74" edge="1" parent="1" source="WT6KL878tAKxY06InM5L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WT6KL878tAKxY06InM5L-19" value="">
+        <mxCell id="WT6KL878tAKxY06InM5L-74" edge="1" parent="1" source="WT6KL878tAKxY06InM5L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WT6KL878tAKxY06InM5L-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Creacion/Eliminacion de tablas" vertex="1">
@@ -144,10 +144,10 @@
           <mxGeometry height="60" width="60" x="1150" y="1725" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Schema tablas&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="100" x="1140" y="1800" as="geometry" />
+          <mxGeometry height="30" width="100" x="1132.5" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" value="" vertex="1">
-          <mxGeometry height="210" width="59" x="1240" y="1710" as="geometry" />
+          <mxGeometry height="210" width="59" x="1232.5" y="1710" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-48" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" value="Usuario" vertex="1">
           <mxGeometry height="30" width="110" x="1330" y="1725" as="geometry" />
@@ -170,7 +170,7 @@
         <mxCell id="WT6KL878tAKxY06InM5L-55" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/list.svg;" value="" vertex="1">
           <mxGeometry height="42.86" width="30" x="1290" y="1820" as="geometry" />
         </mxCell>
-        <mxCell id="WT6KL878tAKxY06InM5L-57" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;labelBackgroundColor=none;" value="&lt;span style=&quot;&quot;&gt;REGISTRARSE&lt;/span&gt;" vertex="1">
+        <mxCell id="WT6KL878tAKxY06InM5L-57" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;labelBackgroundColor=none;size=30;position=0.42;" value="&lt;span style=&quot;&quot;&gt;REGISTRARSE&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="1330" y="780" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-59" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WT6KL878tAKxY06InM5L-7" value="">
