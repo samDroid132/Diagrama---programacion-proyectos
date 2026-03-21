@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Página-1" id="vrziZq-YvizIMkH5P7Hp">
-    <mxGraphModel dx="563" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
           <mxGeometry height="42.86" width="30" x="1290" y="1820" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-57" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;labelBackgroundColor=none;size=30;position=0.42;" value="&lt;span style=&quot;&quot;&gt;REGISTRARSE&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1330" y="780" as="geometry" />
+          <mxGeometry height="90" width="131.8" x="1324.1000000000001" y="770" as="geometry" />
         </mxCell>
         <mxCell id="WT6KL878tAKxY06InM5L-59" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WT6KL878tAKxY06InM5L-7" value="">
           <mxGeometry relative="1" as="geometry">
